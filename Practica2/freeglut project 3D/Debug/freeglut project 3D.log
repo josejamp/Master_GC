@@ -1,0 +1,47 @@
+﻿Build started 01/06/2016 12:19:01.
+     1>Project "E:\GC\pr2\pr2\freeglut project 3D\freeglut project 3D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files\VC\bin\CL.exe /c /IE:\GC\pr2\pr2\freeglut\include\ /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Linterna.cpp
+         Linterna.cpp
+       Link:
+         E:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GC\pr2\pr2\Debug\freeglut project 3D.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\GC\pr2\pr2\freeglut\lib\ kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\GC\pr2\pr2\Debug\freeglut project 3D.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GC\pr2\pr2\Debug\freeglut project 3D.lib" /MACHINE:X86 Debug\Abeto.obj
+         Debug\Alamo.obj
+         Debug\Bosque.obj
+         Debug\BosqueFrondoso.obj
+         Debug\Camara.obj
+         Debug\Cara.obj
+         Debug\Cilindro.obj
+         Debug\Coche.obj
+         Debug\Colores.obj
+         Debug\CopaDoble.obj
+         Debug\CopaSimple.obj
+         Debug\Cubo.obj
+         Debug\Disco.obj
+         Debug\DiscoParcial.obj
+         Debug\Esfera.obj
+         Debug\Faro.obj
+         Debug\Farola.obj
+         Debug\FocoFarola.obj
+         Debug\Hipotrocoide.obj
+         Debug\InterruptorLinterna.obj
+         Debug\Linterna.obj
+         Debug\LinternaExtremo.obj
+         Debug\main.obj
+         Debug\Malla.obj
+         Debug\Objeto3D.obj
+         Debug\ObjetoCompuesto.obj
+         Debug\ObjetoCuadrico.obj
+         Debug\Pino.obj
+         Debug\PuntoVector3D.obj
+         Debug\RecorreHipotrocoide.obj
+         Debug\Roble.obj
+         Debug\Rueda.obj
+         Debug\TAfin.obj
+         Debug\Tronco.obj
+         Debug\VerticeNormal.obj
+         freeglut project 3D.vcxproj -> E:\GC\pr2\pr2\Debug\freeglut project 3D.exe
+     1>Done Building Project "E:\GC\pr2\pr2\freeglut project 3D\freeglut project 3D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.32
